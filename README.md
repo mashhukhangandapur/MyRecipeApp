@@ -19,14 +19,7 @@ MyRecipeApp is an Android application that uses Kotlin, MVVM architecture, Retro
 - **Coroutines:** For handling asynchronous tasks.
 - **Git & GitHub:** For version control and project hosting.
 
-## Setup Instructions
 
-### Prerequisites
-
-- **Android Studio:** Install Android Studio if you haven't already, as it provides everything you need to develop Android apps. Download it [here](https://developer.android.com/studio).
-- **Git:** Make sure Git is installed to clone the repository. You can install it from [here](https://git-scm.com/downloads).
-
-### Steps to Run the Project Locally
 
 1. **Clone the repository:**
 
