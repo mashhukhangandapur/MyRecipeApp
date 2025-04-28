@@ -26,4 +26,4 @@ MyRecipeApp is an Android application that uses Kotlin, MVVM architecture, Retro
    Open your terminal or command prompt and clone the project using:
 
    ```bash
-   git clone https://github.com/yourusername/MyRecipeApp.git
+   git clone https://github.com/mashhukhangandapur/MyRecipeApp.git
