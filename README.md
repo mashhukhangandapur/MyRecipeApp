@@ -1,29 +1,44 @@
-# MyRecipeApp
+# 🍽️ MyRecipeApp
 
-MyRecipeApp is an Android application that uses Kotlin, MVVM architecture, Retrofit for API integration, and Jetpack Compose for creating a modern UI. The app fetches and displays a list of meal categories from the [MealDB API](https://www.themealdb.com/), allowing users to explore various recipes and details.
+**MyRecipeApp** is a modern Android application built using **Kotlin**, **MVVM architecture**, **Retrofit**, and **Jetpack Compose**. It fetches and displays meal categories from the [MealDB API](https://www.themealdb.com/), allowing users to explore various recipes in a smooth, declarative UI experience.
 
-## Features
+---
 
-- **MVVM Architecture:** Clean architecture for easier testing, maintenance, and scalability.
-- **Retrofit Integration:** Makes network requests to the MealDB API to fetch meal categories and recipes.
-- **Jetpack Compose UI:** A modern, declarative UI framework for building responsive and efficient layouts.
-- **Navigation:** Uses Jetpack Navigation Component for seamless navigation between screens.
-- **Error Handling:** Shows error messages in case of failed API requests and provides a loading indicator.
+## ✨ Features
 
-## Technologies Used
+- 🧠 **MVVM Architecture** – Clean separation of UI, data, and business logic for maintainability.
+- 🔗 **Retrofit Integration** – Seamless network calls to fetch data from MealDB API.
+- 🖌️ **Jetpack Compose UI** – Modern, reactive UI design using Google’s declarative toolkit.
+- 🚀 **Navigation Component** – Simplified screen-to-screen navigation.
+- ⚠️ **Error Handling** – Graceful error messages and loading indicators.
+- 🌙 **Dark Mode Support** *(if implemented)*
 
-- **Kotlin:** The primary programming language for Android development.
-- **Retrofit:** For making API requests and parsing JSON responses.
-- **Jetpack Compose:** For building UI using a declarative approach.
-- **MVVM Architecture:** Separates concerns by splitting data handling and UI logic.
-- **Coroutines:** For handling asynchronous tasks.
-- **Git & GitHub:** For version control and project hosting.
+---
 
+## 🛠️ Tech Stack
 
+| Tool | Use |
+|------|-----|
+| **Kotlin** | Primary development language |
+| **Retrofit** | API communication |
+| **Jetpack Compose** | UI Design |
+| **Coroutines** | Async tasks and background operations |
+| **MVVM** | Architecture pattern |
+| **Git & GitHub** | Version control and project hosting |
 
-1. **Clone the repository:**
+---
 
-   Open your terminal or command prompt and clone the project using:
+## 📸 Screenshots
 
-   ```bash
-   git clone https://github.com/mashhukhangandapur/MyRecipeApp.git
+| Home Screen | Edit Screen |
+|-------------|-------------|
+| ![Home Screen](screenshots/rp1.png) | ![Edit Screen](screenshots/rp2.png) |
+
+---
+
+## 📦 Setup Instructions
+
+### 🔄 Clone the repository:
+```bash
+git clone https://github.com/mashhukhangandapur/MyRecipeApp.git
+cd MyRecipeApp
